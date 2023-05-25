@@ -1,3 +1,2 @@
-/swag/*
-!/swag/nginx/*
-.gitignore
+swag/*
+!swag/nginx/*
