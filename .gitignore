@@ -11,4 +11,3 @@
 !/swag/nginx/proxy-confs/*.conf
 /swag/nginx/site-confs/*
 !/swag/nginx/site-confs/*.conf
-.*
