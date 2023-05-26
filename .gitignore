@@ -11,3 +11,13 @@
 !/swag/nginx/proxy-confs/*.conf
 /swag/nginx/site-confs/*
 !/swag/nginx/site-confs/*.conf
+/heimdall/keys
+/heimdall/log
+/heimdall/php
+/heimdall/www
+/heimdall/nginx/*.conf.sample
+/heimdall/nginx/proxy-confs/*
+!/heimdall/nginx/proxy-confs/*.conf
+/heimdall/nginx/site-confs/*
+!/heimdall/nginx/site-confs/*.conf
+/heimdall/.*

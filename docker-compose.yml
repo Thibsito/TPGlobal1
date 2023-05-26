@@ -8,7 +8,7 @@ services:
       - PGID=1000
       - TZ=Etc/UTC
     volumes:
-      - heimdall:/config
+      - ./heimdall:/config
     restart: unless-stopped
 
   swag:
@@ -250,5 +250,4 @@ volumes:
   nextcloud:
   nitter:
   redis:
-  heimdall:
   plik-files:
