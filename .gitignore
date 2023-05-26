@@ -1,2 +1,14 @@
-swag/*
-!swag/nginx/*
+/swag/etc
+/swag/keys
+/swag/log
+/swag/fail2ban
+/swag/crontabs
+/swag/dns-conf
+/swag/php
+/swag/www
+/swag/nginx/*.conf.sample
+/swag/nginx/proxy-confs/*
+!/swag/nginx/proxy-confs/*.conf
+/swag/nginx/site-confs/*
+!/swag/nginx/site-confs/*.conf
+.*
